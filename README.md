@@ -1,6 +1,6 @@
 # HTML and CSS Activity
 
-![example_3](./assets/code_examples/example_3.png)
+![example](./assets/examples/example.png)
 
 ---
 
