@@ -1,4 +1,4 @@
-# HTML and CSS Activity
+# Colors and Fonts
 
 ![example](./assets/examples/example.png)
 
