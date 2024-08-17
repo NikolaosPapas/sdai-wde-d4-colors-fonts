@@ -1,6 +1,6 @@
 # Colors and Fonts
 
-![example](./assets/examples/example.png)
+![Activity Solution](./assets/examples/example.png)
 
 ---
 
